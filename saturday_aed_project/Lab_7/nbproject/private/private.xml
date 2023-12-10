@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/CheckPrescriptionOrder.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/GovernmentOrganization/EmergencyRequestAnalysis.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/blood/BloodOrgWorkAreaJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/Pharmacist/PharmacyOrgWorkAreaJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/business/Emergency/Emergency.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/GovernmentOrganization/PatientDataAnalysis.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/Pharmacist/PharmacistManageMedicines.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/GovernmentOrganization/DataAnalysisJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/LabAssistantRole/LabAssistantWorkAreaPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/blood/ManageDoctorBloodRequest.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/Emergency/ManageEmergencyProfile.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/GovernmentOrganization/LabRequestAnalysis.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/RequestEmergencyJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/CheckLabResultJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/DonateBlood.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/DoctorRole/RequestPresciption.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/blood/ProcessOrderForDoctor.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/AdministrativeRole/ManageOrganizationJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/LabAssistantRole/ViewRequestJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/PatientWorkAreaPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/blood/ManageBloodBanks.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/DoctorRole/ManageAppointment.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/Emergency/ViewEmergencyRequestsJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/DoctorRole/ManageDoctorProfile.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/business/WorkQueue/Req_Emergency.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/DoctorRole/RequestLabJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/CheckEmergencyReqStatus.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/AdministrativeRole/ManageUserAccountJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/LabAssistantRole/ManageLabProfile.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/blood/ManageBloodBankProfile.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/CheckAppointmentStatus.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/ManageDoctorAppointment.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/Pharmacist/ManagePharmacyJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/Pharmacist/ProcessOrderForPatient.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/DoctorRole/RequestBlood.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/business/Role/PatientRole.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/Emergency/EmergencyWorkAreaPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/blood/ManagePatientBloodDonationRequest.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/business/Employee/Employee.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/business/Role/LabAssistantRole.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/AdministrativeRole/ManageEmployeeJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/LabAssistantRole/ProcessWorkRequestJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/DoctorRole/DoctorWorkAreaJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/GovernmentOrganization/BloodDonationRequestAnalysis.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/AdministrativeRole/AdminWorkAreaJPanel.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/ManagePatientProfile.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/business/Role/EmergencyRole.java</file>
+            <file>file:/C:/Info5100/Lab_7/src/ui/PatientRole/ManageMyRecordJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
